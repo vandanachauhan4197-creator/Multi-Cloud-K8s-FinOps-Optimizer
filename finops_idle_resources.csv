@@ -1,0 +1,3 @@
+Cloud_Provider,Pod_Name,Avg_CPU_Used,CPU_Limit,CPU_Utilization_Percent,Avg_Hourly_Cost,Projected_Monthly_Waste_USD,Recommendation
+AWS,analytics-db,0.13,4.0,3.25,4.5,3240.0,HIGH WASTE: Recommend Instance Downsizing
+Azure,analytics-db,0.15,4.0,3.75,4.5,3240.0,HIGH WASTE: Recommend Instance Downsizing
