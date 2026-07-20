@@ -1,0 +1,33 @@
+Timestamp,Cloud_Provider,Pod_Name,Prev_Hour_Cost,Current_Cost,Cost_Jump_Percent,Alert_Status
+2026-07-16 14:00:00,AWS,payment-gateway,2.1,8.8,319.05,🔴 CRITICAL SPIKE (Immediate Action!)
+2026-07-16 14:00:00,Azure,payment-gateway,2.1,8.8,319.05,🔴 CRITICAL SPIKE (Immediate Action!)
+2026-07-16 12:00:00,AWS,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 13:00:00,AWS,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 14:00:00,AWS,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 15:00:00,AWS,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 12:00:00,AWS,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 13:00:00,AWS,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 14:00:00,AWS,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 15:00:00,AWS,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 12:00:00,AWS,payment-gateway,2.1,2.1,0.0,🟢 NORMAL
+2026-07-16 13:00:00,AWS,payment-gateway,2.1,2.1,0.0,🟢 NORMAL
+2026-07-16 12:00:00,AWS,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 13:00:00,AWS,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 14:00:00,AWS,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 15:00:00,AWS,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 12:00:00,Azure,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 13:00:00,Azure,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 14:00:00,Azure,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 15:00:00,Azure,analytics-db,4.5,4.5,0.0,🟢 NORMAL
+2026-07-16 12:00:00,Azure,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 13:00:00,Azure,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 14:00:00,Azure,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 15:00:00,Azure,auth-service,0.95,0.95,0.0,🟢 NORMAL
+2026-07-16 12:00:00,Azure,payment-gateway,2.1,2.1,0.0,🟢 NORMAL
+2026-07-16 13:00:00,Azure,payment-gateway,2.1,2.1,0.0,🟢 NORMAL
+2026-07-16 12:00:00,Azure,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 13:00:00,Azure,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 14:00:00,Azure,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 15:00:00,Azure,web-frontend,1.2,1.2,0.0,🟢 NORMAL
+2026-07-16 15:00:00,AWS,payment-gateway,8.8,2.1,-76.14,🟢 NORMAL
+2026-07-16 15:00:00,Azure,payment-gateway,8.8,2.1,-76.14,🟢 NORMAL
