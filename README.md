@@ -9,7 +9,7 @@ An end-to-end data analytics project built to identify hidden infrastructure cos
 * **Cost Spike Alerts:** Uses SQL `LAG()` window functions to automatically flag sudden cost jumps (>100% spikes).
 * **Idle Resource Detection:** Identifies under-utilized pods (<15% CPU usage) and projects monthly financial waste.
 * **Data Governance:** Ingests data with compliance audit metadata (`Ingestion_Timestamp`, `Encryption_Status`).
-* **Visual Dashboards:** Interactive reports built in Power BI and Tableau.
+* **Visual Dashboards:** Interactive reports built with Streamlit and Looker studio.
 
 ---
 
@@ -29,8 +29,8 @@ An end-to-end data analytics project built to identify hidden infrastructure cos
 │   ├── finops_ingestion.py
 │   └── finops_analysis.py
 ├── dashboards/
-│   ├── PowerBI_FinOps_Dashboard.pbix
-│   └── Tableau_Executive_Summary.twbx
+│   ├── finops dashboard.py(streamlit)
+│   └── Finops cost anomaly dashboard(looker studio)
 └── README.md
 
 ⚙️How to run
@@ -38,5 +38,5 @@ An end-to-end data analytics project built to identify hidden infrastructure cos
 (python scripts/finops_ingestion.py)
 2. Run SQL engine and export repots
 (python scripts/finops_analysis.py)
-3. View Dashboards(Power BI and Tableau)
+3. View Dashboards(streamlit/looker studio)
 
