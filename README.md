@@ -16,7 +16,7 @@ An end-to-end data analytics project built to identify hidden infrastructure cos
 ## 🛠️ Tech Stack
 * **Language:** Python (`pandas`, `sqlite3`, `datetime`)
 * **Database & SQL:** SQLite (CTEs, Window Functions, Case Statements)
-* **BI Tools:** Power BI, Tableau
+* **Dashboard:** (Streamlit and Looker Studio)
 
 ---
 
